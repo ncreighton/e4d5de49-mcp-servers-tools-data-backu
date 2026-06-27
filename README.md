@@ -1,2 +1,28 @@
-# e4d5de49-mcp-servers-tools-data-backu
-mcp servers professionals waste hours on manually copying data between apps and rebuilding the same process every time. This fixes that.  Import the JSON, set your credentials, click activate. Running in minutes. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Mcp Servers &amp; Tools Data Ba
+# MCP Servers & Tools Data Backup and Disaster Recovery N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJedR96mX4sc2hiavOcZD1u)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJedR96mX4sc2hiavOcZD1u)
+
